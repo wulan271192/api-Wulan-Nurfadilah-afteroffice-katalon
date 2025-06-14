@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_put_update_a_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73cfe4a5-d3c3-4d94-9c29-443309dbfeb0</testCaseGuid>
+</TestCaseEntity>
